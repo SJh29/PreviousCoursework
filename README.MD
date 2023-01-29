@@ -1,2 +1,1 @@
-Course Scheduler is a program developed using Java and MySQL(Derby DB).
-The application allows two types of users to perform their necessary functions to schedule courses by semester. The Admin user is able to perform multiple functions to set up the database so that students can schedule their courses. The student user is able to schedule, drop and check their courses alongside a waitlist in the case that the seats for a class is already filled.
+
